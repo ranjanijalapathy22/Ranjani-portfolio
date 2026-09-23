@@ -293,12 +293,12 @@ button {
 
 .image-decoration {
     position: absolute;
-    width: 90px;
-    height: 80px;
+    width: 50px;
+    height: 65px;
     border: 1px solid var(--accent);
     border-radius: 50%;
     top: -30px;
-    right: -90px;
+    right: -70px;
 }
 .floating-card {
     position: absolute;
