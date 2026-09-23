@@ -297,9 +297,8 @@ button {
     height: 60px;
     border: 1px solid #707070;
     border-radius: 50%;
-    z-index: 10;
     top: 15px;
-    right: 20px;
+    right: 30px;
 }
 .floating-card {
     position: absolute;
