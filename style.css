@@ -1051,3 +1051,8 @@ button {
         padding: 25px;
     }
 }
+.dark-card .tech-tags span {
+    background: #252525;
+    color: #ddd;
+    border-color: #444;
+}
